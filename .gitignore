@@ -4,6 +4,7 @@
 
 # ignore .userprefs
 .userprefs
+*.userprefs
 
 # ignore /bin
 /bin
