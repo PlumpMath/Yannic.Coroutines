@@ -1,8 +1,0 @@
-/home/krwllndrmmdmm/Documents/Procedural Techno/Code/Yannic.Coroutines/Yannic.Coroutines.Test/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/home/krwllndrmmdmm/Documents/Procedural Techno/Code/Yannic.Coroutines/Yannic.Coroutines.Test/bin/Release/Yannic.Coroutines.Test.dll.mdb
-/home/krwllndrmmdmm/Documents/Procedural Techno/Code/Yannic.Coroutines/Yannic.Coroutines.Test/bin/Release/Yannic.Coroutines.Test.dll
-/home/krwllndrmmdmm/Documents/Procedural Techno/Code/Yannic.Coroutines/Yannic.Coroutines.Test/obj/Release/Yannic.Coroutines.Test.dll
-/home/krwllndrmmdmm/Documents/Procedural Techno/Code/Yannic.Coroutines/Yannic.Coroutines.Test/obj/Release/Yannic.Coroutines.Test.dll.mdb
-/home/krwllndrmmdmm/Documents/Procedural Techno/Code/Yannic.Coroutines/Yannic.Coroutines.Test/bin/Release/nunit.framework.dll
-/home/krwllndrmmdmm/Documents/Procedural Techno/Code/Yannic.Coroutines/Yannic.Coroutines.Test/bin/Release/Yannic.Coroutines.dll
-/home/krwllndrmmdmm/Documents/Procedural Techno/Code/Yannic.Coroutines/Yannic.Coroutines.Test/bin/Release/Yannic.Coroutines.dll.mdb
