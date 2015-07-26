@@ -1,0 +1,5 @@
+/home/krwllndrmmdmm/Documents/Procedural Techno/Code/Yannic.Coroutines/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/krwllndrmmdmm/Documents/Procedural Techno/Code/Yannic.Coroutines/bin/Debug/Yannic.Coroutines.dll.mdb
+/home/krwllndrmmdmm/Documents/Procedural Techno/Code/Yannic.Coroutines/bin/Debug/Yannic.Coroutines.dll
+/home/krwllndrmmdmm/Documents/Procedural Techno/Code/Yannic.Coroutines/obj/Debug/Yannic.Coroutines.dll
+/home/krwllndrmmdmm/Documents/Procedural Techno/Code/Yannic.Coroutines/obj/Debug/Yannic.Coroutines.dll.mdb

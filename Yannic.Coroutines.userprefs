@@ -1,0 +1,39 @@
+﻿<Properties StartupItem="Yannic.Coroutines.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoroutineContext.cs">
+    <Files>
+      <File FileName="CoroutineContext.cs" Line="107" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Yannic.Coroutines" expanded="True">
+            <Node name="Yannic.Coroutines" expanded="True" selected="True" />
+            <Node name="Yannic.Coroutines.Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="Yannic.Coroutines" expanded="True">
+            <Node name="Yannic.Coroutines.Test" expanded="True">
+              <Node name="Yannic" expanded="True">
+                <Node name="Coroutines" expanded="True">
+                  <Node name="Test" expanded="True">
+                    <Node name="CoroutineContextTest" expanded="True">
+                      <Node name="PauseCoroutineFromAnotherThread" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
