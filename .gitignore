@@ -1,0 +1,12 @@
+
+# ignore .csproj~
+*.csproj~
+
+# ignore .userprefs
+.userprefs
+
+# ignore /bin
+/bin
+
+# ignore /obj
+/obj
