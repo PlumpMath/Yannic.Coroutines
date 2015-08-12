@@ -1,12 +1,11 @@
-﻿
+﻿using System;
+
 namespace Yannic.Coroutines
 {
-	public delegate void PausedHandler(bool paused);
-
     public interface IPausable : IStartable
     {
         bool IsPaused { get; }
-        event PausedHandler Paused;
+        event Action<bool> Paused;
 
         void Pause();
         void Unpause();

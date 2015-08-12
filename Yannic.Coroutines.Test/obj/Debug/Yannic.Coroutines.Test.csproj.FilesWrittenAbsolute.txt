@@ -6,3 +6,11 @@
 /home/krwllndrmmdmm/Documents/Procedural Techno/Code/Yannic.Coroutines/Yannic.Coroutines.Test/bin/Debug/Yannic.Coroutines.Test.dll
 /home/krwllndrmmdmm/Documents/Procedural Techno/Code/Yannic.Coroutines/Yannic.Coroutines.Test/obj/Debug/Yannic.Coroutines.Test.dll
 /home/krwllndrmmdmm/Documents/Procedural Techno/Code/Yannic.Coroutines/Yannic.Coroutines.Test/obj/Debug/Yannic.Coroutines.Test.dll.mdb
+/home/krwllndrmmdmm/Documents/Development/Yannic.Coroutines/Yannic.Coroutines.Test/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/krwllndrmmdmm/Documents/Development/Yannic.Coroutines/Yannic.Coroutines.Test/bin/Debug/Yannic.Coroutines.Test.dll.mdb
+/home/krwllndrmmdmm/Documents/Development/Yannic.Coroutines/Yannic.Coroutines.Test/bin/Debug/Yannic.Coroutines.Test.dll
+/home/krwllndrmmdmm/Documents/Development/Yannic.Coroutines/Yannic.Coroutines.Test/obj/Debug/Yannic.Coroutines.Test.dll
+/home/krwllndrmmdmm/Documents/Development/Yannic.Coroutines/Yannic.Coroutines.Test/obj/Debug/Yannic.Coroutines.Test.dll.mdb
+/home/krwllndrmmdmm/Documents/Development/Yannic.Coroutines/Yannic.Coroutines.Test/bin/Debug/nunit.framework.dll
+/home/krwllndrmmdmm/Documents/Development/Yannic.Coroutines/Yannic.Coroutines.Test/bin/Debug/Yannic.Coroutines.dll
+/home/krwllndrmmdmm/Documents/Development/Yannic.Coroutines/Yannic.Coroutines.Test/bin/Debug/Yannic.Coroutines.dll.mdb

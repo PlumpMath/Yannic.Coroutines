@@ -1,11 +1,10 @@
-﻿
+﻿using System;
+
 namespace Yannic.Coroutines
 {
-	public delegate void ResetedHandler();
-
     public interface IResetable
     {
-        event ResetedHandler Reseted;
+        event Action Reseted;
 
         void Reset();
     }

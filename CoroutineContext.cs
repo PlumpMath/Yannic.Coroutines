@@ -12,11 +12,11 @@ namespace Yannic.Coroutines
         public bool IsStarted { get; set;}
         public bool IsFinished {get; set;}
 
-        public event StartedHandler Started = delegate { };
-        public event PausedHandler Paused = delegate { };
-        public event StoppedHandler Stopped = delegate { };
-        public event ResetedHandler Reseted = delegate { };
-        public event FinishedHandler Finished = delegate { };
+        public event Action Started = delegate { };
+        public event Action<bool> Paused = delegate { };
+        public event Action Stopped = delegate { };
+        public event Action Reseted = delegate { };
+        public event Action Finished = delegate { };
 
 
         private IEnumerator coroutineEnumerator;
@@ -137,7 +137,7 @@ namespace Yannic.Coroutines
             lock (this.pauseLock)
             {
                 this.IsPaused = true;
-                this.Paused(paused: true);
+                this.Paused(true);
             }
         }
 
@@ -151,7 +151,7 @@ namespace Yannic.Coroutines
                 lock (this.pauseLock)
                 {
                     this.IsPaused = false;
-                    this.Paused(paused: false);
+                    this.Paused(false);
                 }
                 this.Start();
             }
